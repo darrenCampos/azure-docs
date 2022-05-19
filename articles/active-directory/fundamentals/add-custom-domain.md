@@ -18,7 +18,7 @@ ms.collection: M365-identity-device-management
 
 # Add your custom domain name using the Azure Active Directory portal
 
-Every new Azure AD tenant comes with an initial domain name, *\<domainname>.onmicrosoft.com*. You can't change or delete the initial domain name, but you can add your organization's names. Adding custom domain names helps you to create user names that are familiar to your users, such as *alain\@contoso.com*.
+Every new Azure AD tenant comes with an initial domain name, *\<domainname>.onmicrosoft.com*. You can't change or delete the initial domain name, but you can add another *\<domainname>.onmicrosoft.com*. Also you can add custom domain names, that helps you to create user names that are familiar to your users, such as *alain\@contoso.com*.
 
 ## Before you begin
 
